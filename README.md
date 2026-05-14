@@ -32,19 +32,6 @@ A web application that converts YouTube video transcripts into structured AI-gen
 
 ---
 
-# Project Structure
-
-```bash
-project-folder/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
----
-
 # Running the Project
 
 Open:
